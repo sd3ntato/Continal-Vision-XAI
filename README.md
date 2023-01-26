@@ -1,3 +1,5 @@
+# carefull, this work is at the beginning of its life!
+
 # visualizing catastrophic forgetting
 
 aim of the project:
